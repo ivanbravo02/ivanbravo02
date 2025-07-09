@@ -19,10 +19,10 @@ Persona honesta y comprometida, con habilidades en desarrollo web, atención al 
   Tehuacán, Puebla *(2022 - 2024)*
 
 - **Bachillerato General Oficial Ciudad del Sol**
-- Tehuacán, Puebla*(2019 - 2022)*
+  Tehuacán, Puebla*(2019 - 2022)*
 
 - **Escuela Secundaria General Raúl López Ramírez**
-- Tehuacán, Puebla*(2016 - 2019)*
+  Tehuacán, Puebla*(2016 - 2019)*
 
 ---
 
