@@ -3,7 +3,7 @@
 📍 Tehuacán, Puebla, México  
 📧 ivanb3304@gmail.com  
 📞 238-107-00-84 / 238-210-33-87  
-[Facebook](https://www.facebook.com/IvanBravo)  
+[Facebook](https://www.facebook.com/ivan.bravo.37004)  
 
 ---
 
@@ -15,11 +15,14 @@ Persona honesta y comprometida, con habilidades en desarrollo web, atención al 
 
 ## 🎓 Formación Académica
 - **Universidad Tecnológica de Tehuacán (UTT)**  
-  Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma *(2022 - 2024)*
+  Técnico Superior Universitario en Tecnologías de la Información, Área Desarrollo de Software Multiplataforma
+  Tehuacán, Puebla *(2022 - 2024)*
 
-- **Bachillerato General Oficial Ciudad del Sol** *(2019 - 2022)*
+- **Bachillerato General Oficial Ciudad del Sol**
+- Tehuacán, Puebla*(2019 - 2022)*
 
-- **Escuela Secundaria General Raúl López Ramírez** *(2016 - 2019)*
+- **Escuela Secundaria General Raúl López Ramírez**
+- Tehuacán, Puebla*(2016 - 2019)*
 
 ---
 
