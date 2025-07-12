@@ -19,18 +19,18 @@ Persona honesta y comprometida, con habilidades en desarrollo web, atención al 
   Tehuacán, Puebla *(2022 - 2024)*
 
 - **Bachillerato General Oficial Ciudad del Sol**
-  Tehuacán, Puebla*(2019 - 2022)*
+  Tehuacán, Puebla *(2019 - 2022)*
 
 - **Escuela Secundaria General Raúl López Ramírez**
-  Tehuacán, Puebla*(2016 - 2019)*
+  Tehuacán, Puebla *(2016 - 2019)*
 
 ---
 
 ## 💼 Experiencia Laboral
 -**Personal de apoyo - Centro de Verificacion Vehicular 027** *(Mayo 2025 - Actualidad)*
-  - Apoyo en la atención a usuarios
-  - Recepción de documentación
-  - Entrega de certificados de verificación y hologramas
+    - Apoyo en la atención a usuarios.
+    - Recepción de documentación.
+    - Entrega de certificados de verificación y hologramas.
 
 - **Practicante en Desarrollo Web – Azul Clarito Marketing & Developers** *(Mayo 2024 - Agosto 2024)*  
   - Publicación de webinars en plataformas digitales de Vets Pharma y Pets Pharma.
