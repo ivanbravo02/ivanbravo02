@@ -27,6 +27,11 @@ Persona honesta y comprometida, con habilidades en desarrollo web, atención al 
 ---
 
 ## 💼 Experiencia Laboral
+-**Personal de apoyo - Centro de Verificacion Vehicular 027** *(Mayo 2025 - Actualidad)*
+  - Apoyo en la atención a usuarios
+  - Recepción de documentación
+  - Entrega de certificados de verificación y hologramas
+
 - **Practicante en Desarrollo Web – Azul Clarito Marketing & Developers** *(Mayo 2024 - Agosto 2024)*  
   - Publicación de webinars en plataformas digitales de Vets Pharma y Pets Pharma.
   - Desarrollo de página web para Infraestructura FOI con WordPress y Elementor.
