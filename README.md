@@ -68,6 +68,7 @@ Persona honesta y comprometida, con habilidades en desarrollo web, atención al 
 - Mantenimiento de computadoras y laptops
 - Validación de usuarios en plataformas web
 - Publicación de contenidos digitales
+- Gestion de tareas con Trello y Asana
 
 ---
 
@@ -79,7 +80,7 @@ Persona honesta y comprometida, con habilidades en desarrollo web, atención al 
 
 ## 🌐 Idiomas
 - Español (Nativo)
-- Inglés (Intermedio)
+- Inglés (Basico-intermedio)
 - Italiano (Básico)
 
 ---
